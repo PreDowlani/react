@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.App{
+    background-image: url(https://booglejr.com/require/images/blog/posts/post21/React-logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h1:hover{
+    color: #76b5c5;
+    background-color: black;
+}
+
+
+#alta {
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+
+.form {
+    padding: 20px;
+    color: white;
+}
+
+.lista{
+    padding: 20px;
+    color: white;
+    
+}
+
+.lista h3{
+    width: 300px;
+    padding: 5px;
+}
+
+.lista ul{
+    border: 1px solid;
+    width: 250px;
+    font-size: 18px;
+}
+
+.lista ul:hover{
+    background-color: #76b5c5;
+    color: black;
+    transform: scale(1.2);
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+
+.formulario{
+    border: 5px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.formulario:hover{
+    background-color: #7acfe4;
+    opacity: 0.8;  
+}
+
+.form:hover{
+    color: black;
+}
+
+.formulario button{
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.formulario button:hover{
+    background-color:black;
+    color:white;
+}
+
+.form label{
+    padding: 5px;
+}

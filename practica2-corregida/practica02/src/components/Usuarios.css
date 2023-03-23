@@ -1,0 +1,14 @@
+.usuarios {
+  background-color: lightcyan;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  max-width: 50%
+}
+
+.usuario {
+  background-color: rgb(192, 224, 203);
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}

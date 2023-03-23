@@ -1,0 +1,65 @@
+#body {
+    background-color: wheat;
+    padding: 10px;
+}
+#body h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family:cursive;
+    text-decoration: underline;
+}
+
+#body h1:hover {
+    background-color: coral;
+    color: black;
+}
+#ejer{
+    font-size: 25px;  
+}
+
+#ejer h2:hover {
+    background-color: burlywood;
+}
+#ejer p{
+    font-style: italic;
+}
+
+#lista {
+    background-color: rgb(243, 206, 132);
+    font-size: 25px;
+}
+
+#lista li{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#datos-personales {
+    font-size: 25px;
+}
+
+#enviar {
+    text-align: center;
+    padding: 10px;
+}
+
+#enviar button{
+    padding: 10px;
+    font-size: 20px;
+}
+
+#enviar button:hover {
+    background-color: burlywood;
+    color: brown;
+}
+
+#liHTML {
+    font-size: 20px;
+}
+
+#ejer5 h3{
+    font-size: 25px;
+}
+
+#liHTML li:hover{
+    background-color:rgb(212, 121, 88);
+}
