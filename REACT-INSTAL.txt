@@ -1,0 +1,12 @@
+Para instalar : npx create-react-app
+
+  FUNCIONAR : npm start
+   Para ir a carpetas : cd nombre de la carpeta
+    COMPONENTES
+  : racfe..
+   APP Principal : import siempre.. 
+   ROUTER : npm i react-router-dom
+  BOOTSTRAP : npm i bootstrap npm i typecript @popperjs/core
+   REACT BOOTSTRAP npm
+  i react-bootstrap bootstrap
+
